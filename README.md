@@ -17,7 +17,7 @@ A Machine Learning web application that predicts house prices using user input f
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/House-Price-Prediction.git
+git clone https://github.com/Aken0640/House_Price_Prediction.git
 ```
 
 Move into the project folder:
